@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Mankey
 
-<!--
-**Mankeylol/mankeylol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I Do
 
-Here are some ideas to get you started:
+- Web3 Dev: Building tools and platforms to bring ideas I envision to life.
+- Community Enthusiast: Founder of Manifesting Builders, a vibrant and growing community of developers, designers, and product managers. I also host workshops, hackathons, and events to inspire collaboration and innovation.
+- Fulltime Degen: When not building stuff you can find me in the trenches and CT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I’m Working On
+
+
+
+
+
+
+
+
+
+
+
