@@ -14,9 +14,9 @@ Hi, I'm Mankey
 
 ## 🧰 Skills
 
-Languages: TypeScript, JavaScript, Rust, Cairo, Solidity, Python
-Web3 Stack: Anchor, ethers.js, Solana Web3.js, Wallet connect, Wallet adapter
-Community Building: Hosting workshops, hackathons, managing communities
+- Languages: TypeScript, JavaScript, Rust, Cairo, Solidity, Python
+- Web3 Stack: Anchor, ethers.js, Solana Web3.js, Wallet connect, Wallet adapter
+- Community Building: Hosting workshops, hackathons, managing communities
 
 
 
